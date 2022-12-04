@@ -1,8 +1,20 @@
 # <img src="https://media3.giphy.com/media/Hicydpti7wG3vA8Zr4/giphy.gif?cid=ecf05e47a48s9dyxbw629qky7pqdshydfquyxi5gawgw4svq&rid=giphy.gif&ct=g" width="30"> ✧･ﾟ: *✧･ﾟ:*Hello!*:･ﾟ✧*:･ﾟ✧ <img src="https://media3.giphy.com/media/Hicydpti7wG3vA8Zr4/giphy.gif?cid=ecf05e47a48s9dyxbw629qky7pqdshydfquyxi5gawgw4svq&rid=giphy.gif&ct=g" width="30">
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+<div id="badges">
+  <a href ="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://sionamb.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.instagram.com/jambetterthanjelly/">
+    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge"/>
+  </a>
+</div> 
 
 <img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="50%"/>
 
@@ -19,7 +31,7 @@
 <img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="25%"/>
 
 
-### Languages
+### <ins>Languages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</ins>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
