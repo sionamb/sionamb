@@ -22,7 +22,7 @@
 # &nbsp; ───── ❝ 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 ❞ ───── <br>
 &nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/><b> Computer Science</b> sophmore at Saginaw Valley State University <br>
 &nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Student Research Assistant <br>
-&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Pronouns: <em>She/Her/Hers</em> 
+&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Exploring machine leanring and quantum computing
 
 
 &nbsp; <img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
