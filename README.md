@@ -10,7 +10,7 @@
 # About Me <br>
 <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/><b> Computer Science</b> sophmore at Saginaw Valley State University <br>
 <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Student Research Assistant <br>
-<img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Pronouns: <em>She/Her/Hers</em> <br>
+<img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Pronouns: <em>She/Her/Hers</em> 
 
 
 <img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
@@ -19,7 +19,7 @@
 <img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="25%"/>
 
 
-## Languages
+### Languages
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
