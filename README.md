@@ -3,15 +3,15 @@
 
 
 <div id="badges">
-  <a href ="https://forthebadge.com">
+  <a target = "_blank" href ="https://forthebadge.com">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
+  <a target = "_blank" href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://sionamb.github.io/">
+  <a target = "_blank" href="https://sionamb.neocities.org">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.instagram.com/jambetterthanjelly/">
+  <a target = "_blank" href="https://www.instagram.com/jambetterthanjelly/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge"/>
   </a>
 </div> 
@@ -40,6 +40,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+
+## :fire: My Stats :
+<div id="stats" align="center">
+  <a target = "_blank" href = "https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sionamb&theme=blueberry_duo&background=transparent&hide_border=true"/>
+</div>
 
 
 
