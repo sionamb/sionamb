@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
 
 
-<img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="25%"/>
+<img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="20%"/>
 
 
 ### <ins>Languages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</ins>
