@@ -13,7 +13,7 @@
 <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Pronouns: <em>She/Her/Hers</em> <br>
 
 
-<img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
+<img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
 
 
 <img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="25%"/>
