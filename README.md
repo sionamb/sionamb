@@ -1,6 +1,6 @@
 # &nbsp; &nbsp; &nbsp; &nbsp;  ▁ ▂ ▄ ▅ ▆ ▇ █ 　【﻿Ｈｅｌｌｏ！】　 █ ▇ ▆ ▅ ▄ ▂ ▁ 
 
-
+<br>
 
 <div id="badges">
   <a href ="https://forthebadge.com">
@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/jambetterthanjelly/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge" height="30"/>
   </a>
-</div> <br>
+</div> <br> 
 
 <img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="50%"/>
 
@@ -42,7 +42,7 @@
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 
 
-<hr>  
+<hr><br>  
 
 <div id="stats" align="center">
   <a href = "https://git.io/streak-stats">
