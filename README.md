@@ -5,6 +5,8 @@
 <div id="badges">
   <a href ="https://forthebadge.com">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
+  <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="30"/>
   <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
