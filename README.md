@@ -16,7 +16,7 @@
   </a>
 </div> 
 
-<img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="53%"/>
+<img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="50%"/>
 
 
 # About Me <br>
