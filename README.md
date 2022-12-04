@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/jambetterthanjelly/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge" height="30"/>
   </a>
-  <a href="https://github.com/sionamb/sionamb/blob/main/Siona_Beaudoin___Resume-3.pdf" download>
+  <a href="./sionamb/blob/main/Siona_Beaudoin___Resume-3.pdf" download>
     <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=Read the Docs&logoColor=white" alt="Instagram Badge" height="30"/>
   </a>
 </div> <br> 
