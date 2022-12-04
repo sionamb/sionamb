@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" height="30"/>
   </a>
   <a href="https://www.instagram.com/jambetterthanjelly/">
-    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge" height="30"/>
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="30"/>
   </a>
 </div> <br> 
 
