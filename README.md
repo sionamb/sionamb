@@ -1,4 +1,4 @@
-# <img src="https://media3.giphy.com/media/Hicydpti7wG3vA8Zr4/giphy.gif?cid=ecf05e47a48s9dyxbw629qky7pqdshydfquyxi5gawgw4svq&rid=giphy.gif&ct=g" width="30"> »»————-　ℍ𝕖𝕝𝕝𝕠!　-————«« <img src="https://media3.giphy.com/media/Hicydpti7wG3vA8Zr4/giphy.gif?cid=ecf05e47a48s9dyxbw629qky7pqdshydfquyxi5gawgw4svq&rid=giphy.gif&ct=g" width="30">
+# <img src="https://media3.giphy.com/media/Hicydpti7wG3vA8Zr4/giphy.gif?cid=ecf05e47a48s9dyxbw629qky7pqdshydfquyxi5gawgw4svq&rid=giphy.gif&ct=g" width="30"> ▁ ▂ ▄ ▅ ▆ ▇ █ 　ℍ𝕖𝕝𝕝𝕠!　█ ▇ ▆ ▅ ▄ ▂ ▁ <img src="https://media3.giphy.com/media/Hicydpti7wG3vA8Zr4/giphy.gif?cid=ecf05e47a48s9dyxbw629qky7pqdshydfquyxi5gawgw4svq&rid=giphy.gif&ct=g" width="30">
 
 
 
@@ -31,7 +31,7 @@
 <img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="23%"/>
 
 
-### ──── ❝ 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 ❞ ────
+### ─── ❝ 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 ❞ ───
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
