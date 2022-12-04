@@ -16,6 +16,9 @@
   <a href="https://www.instagram.com/jambetterthanjelly/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge" height="30"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=Read the Docs&logoColor=white" alt="Instagram Badge" height="30"/>
+  </a>
 </div> <br> 
 
 <img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="50%"/>
