@@ -7,6 +7,9 @@
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
   <a href="https://forthebadge.com">
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="30"/>
+  <a href="./Siona_Beaudoin___Resume-3.pdf" download>
+    <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=Read the Docs&logoColor=white" alt="Instagram Badge" height="30"/>
+  </a>
   <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
@@ -15,9 +18,6 @@
   </a>
   <a href="https://www.instagram.com/jambetterthanjelly/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge" height="30"/>
-  </a>
-  <a href="./Siona_Beaudoin___Resume-3.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=Read the Docs&logoColor=white" alt="Instagram Badge" height="30"/>
   </a>
 </div> <br> 
 
