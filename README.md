@@ -3,29 +3,29 @@
 
 
 <div id="badges">
-  <a target = "_blank" href ="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <a target = "_blank" href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href ="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
+  <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
-  <a target = "_blank" href="https://sionamb.neocities.org">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://sionamb.neocities.org">
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" height="30"/>
   </a>
-  <a target = "_blank" href="https://www.instagram.com/jambetterthanjelly/">
-    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/jambetterthanjelly/">
+    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge" height="30"/>
   </a>
 </div> 
 
 <img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="50%"/>
 
 
-# About Me <br>
-<img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/><b> Computer Science</b> sophmore at Saginaw Valley State University <br>
-<img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Student Research Assistant <br>
-<img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Pronouns: <em>She/Her/Hers</em> 
+# &nbsp; About Me <br>
+&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/><b> Computer Science</b> sophmore at Saginaw Valley State University <br>
+&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Student Research Assistant <br>
+&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Pronouns: <em>She/Her/Hers</em> 
 
 
-<img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
+&nbsp; <img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
 
 
 <img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="23%"/>
@@ -41,9 +41,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 
-## :fire: My Stats :
+
+<br><hr>  
+
 <div id="stats" align="center">
-  <a href = "https://git.io/streak-stats" target = "_blank">
+  <a href = "https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sionamb&theme=blueberry_duo&background=transparent&hide_border=true"/>
 </div>
 
