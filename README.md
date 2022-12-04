@@ -43,7 +43,7 @@
 
 ## :fire: My Stats :
 <div id="stats" align="center">
-  <a target = "_blank" href = "https://git.io/streak-stats">
+  <a href = "https://git.io/streak-stats" target = "_blank">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sionamb&theme=blueberry_duo&background=transparent&hide_border=true"/>
 </div>
 
