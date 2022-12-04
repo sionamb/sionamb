@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 
 
-<br><hr>  
+<hr>  
 
 <div id="stats" align="center">
   <a href = "https://git.io/streak-stats">
