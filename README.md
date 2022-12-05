@@ -55,9 +55,3 @@
   <a href = "https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sionamb&theme=gotham&background=transparent&hide_border=true"/>
 </div>
-
-
- <details>
-  <summary>[&nbsp;&nbsp;]</summary>
-  <p>pop!</p>
-</details> 
