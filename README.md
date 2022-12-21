@@ -51,7 +51,12 @@
 
 <hr><br>  
 
-<div id="stats" align="center">
+
+<div id="stats" align="center" width="50%">
+  <a href = "https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&background=transparent&hide_border=true"/>
   <a href = "https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sionamb&theme=gotham&background=transparent&hide_border=true"/>
 </div>
+
+
