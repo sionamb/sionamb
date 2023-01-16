@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
-  <a href="https://sionamb.neocities.org">
+  <a href="https://sionamb.github.io">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=HTML5&logoColor=white" alt="Portfolio Badge" height="30"/>
   </a>
   <a href="https://www.instagram.com/jambetterthanjelly/">
