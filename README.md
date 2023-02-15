@@ -39,11 +39,11 @@
 <img align="left" src="https://media1.giphy.com/media/LPU3Ahx6wGsRCDVgV0/giphy.gif?cid=ecf05e47hvr89i0f2q6ud8knoiqa7s0ds6kzskmd263aw0j1&rid=giphy.gif&ct=g" width="20%" height="130"/>
 </div>
   
-<hr><br><br><br><hr><br><br><br><br><br><hr>
+<hr><br><br><br><hr><br><br><br><br><br><br><hr>
 
     
 <div align = "center">
-  <h3> ────  𝚊𝚋𝚘𝚞𝚝 𝚖𝚎  ──── </h3>
+  <h2> ────  𝚊𝚋𝚘𝚞𝚝 𝚖𝚎  ──── </h2>
 </div>
 
 ```javascript
@@ -51,15 +51,11 @@ const Siona_Beaudoin = {
     pronouns: ["She", "Her"], 
     school: "Saginaw Valley State University",
     major: "Computer Science", 
-    current_courses: ["Assembly", "Server Side Web Dev", 
-                "Advanced Java"],
+    current_courses: ["Assembly", "Server Side Web Dev", "Advanced Java"],
     current_job: "Student Research Assistant",
-    interests: ["Full Stack", "Data Analytics", 
-                "Machine Learning", "Quantum Computing"],
-    extracurriculars:["Machine Learning Club", 
-                "Association for Computing Machinery", 
-                "Google Developer Student Club",
-                "Cardinal Robotics"]
+    interests: ["Full Stack", "Data Analytics", "Machine Learning", "Quantum Computing"],
+    extracurriculars:["Association for Computing Machinery", "Google Developer Student Club", 
+                      "Machine Learning Club", "Cardinal Robotics"]
 }
 ```
 
@@ -85,7 +81,7 @@ const Siona_Beaudoin = {
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex"  alt="Latex" width="40" height="40"/>&nbsp;
   
-</div><br>  
+</div><br><hr>
 
 
 <div id="stats" align="center" width="50%">
