@@ -26,11 +26,7 @@
 <img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="50%"/>
 
 <div align = "center">
-  <h3>
-    <img src="https://media2.giphy.com/media/H9sMSBF2CaNI4/giphy.gif?cid=ecf05e4719483dp82r1nlw6aaj9q4oae3gttuuh04h9h57xn&rid=giphy.gif&ct=s" width="40" height="40"/>
-    ────  𝚊𝚋𝚘𝚞𝚝 𝚖𝚎  ──── 
-    <img src="https://media2.giphy.com/media/H9sMSBF2CaNI4/giphy.gif?cid=ecf05e4719483dp82r1nlw6aaj9q4oae3gttuuh04h9h57xn&rid=giphy.gif&ct=s" width="40" height="40"/>
-  </h3>
+  <h3> ────  𝚊𝚋𝚘𝚞𝚝 𝚖𝚎  ──── </h3>
 </div>
 
 ```javascript
@@ -38,24 +34,21 @@ const Siona_Beaudoin = {
     pronouns: ["She", "Her"], 
     school: "Saginaw Valley State University",
     major: "Computer Science", 
-<!--     current_courses: ["Assembly", "Server Side Web Dev", 
-                "Advanced Java"], -->
+    current_courses: ["Assembly", "Server Side Web Dev", 
+                "Advanced Java"],
     current_job: "Student Research Assistant",
     interests: ["Full Stack", "Data Analytics", 
                 "Machine Learning", "Quantum Computing"],
-    extracurriculars:["Association for Computing Machinery", 
-                "Google Developer Student Club", 
-                "Machine Learning Club", "Cardinal Robotics"]
+    extracurriculars:["Machine Learning Club", 
+                "Association for Computing Machinery", 
+                "Google Developer Student Club",
+                "Cardinal Robotics"]
 }
 ```
 
 
 <div align = "center">
-  <h3>
-    <img src="https://media2.giphy.com/media/H9sMSBF2CaNI4/giphy.gif?cid=ecf05e4719483dp82r1nlw6aaj9q4oae3gttuuh04h9h57xn&rid=giphy.gif&ct=s" width="40" height="40"/>
-    ────  𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚝𝚘𝚘𝚕𝚜  ──── 
-    <img src="https://media2.giphy.com/media/H9sMSBF2CaNI4/giphy.gif?cid=ecf05e4719483dp82r1nlw6aaj9q4oae3gttuuh04h9h57xn&rid=giphy.gif&ct=s" width="40" height="40"/>
-  </h3>
+  <h3> ────  𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚝𝚘𝚘𝚕𝚜  ──── </h3>
   
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
