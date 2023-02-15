@@ -32,11 +32,11 @@
     
 <img align="left" src="https://media2.giphy.com/media/26u3Z5ChEO3lFSb3q/giphy.gif?cid=ecf05e4719n1s8g6ddrfy9jlxoy3vac76xhqevqbbcnp2m6v&rid=giphy.gif&ct=g" width="20%" height="150"/>
     
-<img align="right" src="https://media4.giphy.com/media/26u4lmReBFtv3KPU4/giphy.gif?cid=ecf05e472wu4jopv2psdnynktm1w09g1bok2c6iif11v24p0&rid=giphy.gif&ct=g" width="20%" height="130"/>
+<img align="right" src="https://media4.giphy.com/media/26u4lmReBFtv3KPU4/giphy.gif?cid=ecf05e472wu4jopv2psdnynktm1w09g1bok2c6iif11v24p0&rid=giphy.gif&ct=g" width="20%" height="150"/>
     
-<img align="left" src="https://media1.giphy.com/media/DU4A3qMuAq1dC/giphy.gif?cid=ecf05e47gulcjwgkrjjm9jc5apgutslqt1ang6wpdwoi50d4&rid=giphy.gif&ct=g" width="20%" height="130"/>
+<img align="left" src="https://media1.giphy.com/media/DU4A3qMuAq1dC/giphy.gif?cid=ecf05e47gulcjwgkrjjm9jc5apgutslqt1ang6wpdwoi50d4&rid=giphy.gif&ct=g" width="20%" height="150"/>
     
-<img align="left" src="https://media1.giphy.com/media/LPU3Ahx6wGsRCDVgV0/giphy.gif?cid=ecf05e47hvr89i0f2q6ud8knoiqa7s0ds6kzskmd263aw0j1&rid=giphy.gif&ct=g" width="20%" height="130"/>
+<img align="left" src="https://media1.giphy.com/media/LPU3Ahx6wGsRCDVgV0/giphy.gif?cid=ecf05e47hvr89i0f2q6ud8knoiqa7s0ds6kzskmd263aw0j1&rid=giphy.gif&ct=g" width="20%" height="150"/>
 </div>
   
 <hr><br><br><br><hr><br><br><br><br><br><br><hr>
@@ -59,10 +59,10 @@ const Siona_Beaudoin = {
 }
 ```
 
-<hr>
+<br><hr>
 
 <div align = "center">
-  <h3> ────  𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚝𝚘𝚘𝚕𝚜  ──── </h3>
+  <h2> ────  𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚝𝚘𝚘𝚕𝚜  ──── </h2>
   
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
