@@ -25,17 +25,29 @@
 
 <img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="50%"/>
 
+<div align = "center">
+  <h3>
+    <img src="https://media2.giphy.com/media/H9sMSBF2CaNI4/giphy.gif?cid=ecf05e4719483dp82r1nlw6aaj9q4oae3gttuuh04h9h57xn&rid=giphy.gif&ct=s" width="40" height="40"/>
+    ────  𝚊𝚋𝚘𝚞𝚝 𝚖𝚎  ──── 
+    <img src="https://media2.giphy.com/media/H9sMSBF2CaNI4/giphy.gif?cid=ecf05e4719483dp82r1nlw6aaj9q4oae3gttuuh04h9h57xn&rid=giphy.gif&ct=s" width="40" height="40"/>
+  </h3>
+</div>
 
-  ```javascript
-  const Siona = {
-      pronouns: ["She", "Her"], 
-      school: "Saginaw Valley State University",
-      major: "Computer Science", 
-      current_job: "Student Research Assistant",
-      interests: ["Full Stack", "Data Analytics", 
-                  "Machine Learning", "Quantum Computing"],
-  }
-  ```
+```javascript
+const Siona_Beaudoin = {
+    pronouns: ["She", "Her"], 
+    school: "Saginaw Valley State University",
+    major: "Computer Science", 
+    current_courses: ["Assembly", "Server Side Web Dev", 
+                "Advanced Java"],
+    current_job: "Student Research Assistant",
+    interests: ["Full Stack", "Data Analytics", 
+                "Machine Learning", "Quantum Computing"],
+    extracurriculars:["Association for Computing Machinery", 
+                "Google Developer Student Club", 
+                "Machine Learning Club", "Cardinal Robotics"]
+}
+```
 
 
 <div align = "center">
@@ -62,9 +74,7 @@
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex"  alt="Latex" width="40" height="40"/>&nbsp;
   
-</div>
-
-<hr><br>  
+</div><br>  
 
 
 <div id="stats" align="center" width="50%">
