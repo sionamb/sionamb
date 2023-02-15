@@ -38,8 +38,8 @@ const Siona_Beaudoin = {
     pronouns: ["She", "Her"], 
     school: "Saginaw Valley State University",
     major: "Computer Science", 
-    current_courses: ["Assembly", "Server Side Web Dev", 
-                "Advanced Java"],
+<!--     current_courses: ["Assembly", "Server Side Web Dev", 
+                "Advanced Java"], -->
     current_job: "Student Research Assistant",
     interests: ["Full Stack", "Data Analytics", 
                 "Machine Learning", "Quantum Computing"],
