@@ -27,15 +27,19 @@
 
 
 # &nbsp; ───── ❝ 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 ❞ ───── <br>
-&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/><b> Computer Science</b> sophmore at Saginaw Valley State University <br>
-&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Student Research Assistant <br>
-&nbsp; <img src="https://media1.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif?cid=ecf05e47yfli071qz72sido2h8m2kftf4xi729pvyeabj5yj&rid=giphy.gif&ct=g" width="15"/> Exploring <b>Machine Learning</b> and <b>Quantum Computing</b> <img src="https://media1.giphy.com/media/UtVjgQuWRwyIUuZA2Y/giphy.gif?cid=ecf05e47t8esd9nq5bcfwk8s6qfz2ky1f7rstd398alzchdi&rid=giphy.gif&ct=g" width="15"/>
 
+  ```javascript
+  const Siona = {
+      pronouns: ["She", "Her"], 
+      school: "Saginaw Valley State University",
+      major: "Computer Science", 
+      current_job: "Student Research Assistant",
+      interests: ["Full Stack", "Data Analytics", 
+                  "Machine Learning", "Quantum Computing"],
+  }
+  ```
+<br>
 
-&nbsp; <img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/><img src="https://media.giphy.com/media/GX9tiXtbdLHoC1FLJm/giphy.gif" height="15"/>
-
-
-<img align="right" src="https://media0.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47l1l5u4c4k2li2n182dqvjtl159u96pwfolivtqez&rid=giphy.gif&ct=g" width="23%"/>
 
 
 ### &nbsp; ────  𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜  ──── <br>
