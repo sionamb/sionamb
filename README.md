@@ -84,9 +84,10 @@ const Siona_Beaudoin = {
 </div><br><hr>
 
 
-<div id="stats" align="center" width="50%">
+<div id="stats" align="center">
+   <h2> ────  𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜  ──── </h2>
   <a href = "https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-cn3u-3u7it0vrh-sionamb.vercel.app/api/top-langs/?username=sionamb&layout=compact&theme=gotham&background=transparent&hide_border=true"/>
+    <img src="https://github-stats-cn3u-3u7it0vrh-sionamb.vercel.app/api/top-langs/?username=sionamb&layout=compact&theme=gotham&background=transparent&hide_border=true"/></a>
   <a href = "https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sionamb&theme=gotham&background=transparent&hide_border=true"/>
 </div>
