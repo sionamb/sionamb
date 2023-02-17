@@ -50,10 +50,12 @@ const Siona_Beaudoin = {
     school: "Saginaw Valley State University",
     major: "Computer Science", 
     current_courses: ["Assembly", "Server Side Web Dev", "Advanced Java"],
-    current_job: "Student Research Assistant",
-    interests: ["Full Stack", "Data Analytics", "Machine Learning", "Quantum Computing"],
+    past_courses: ["Java", "VB.NET", "CS Statistics", "Cient Side Web Dev", "Calculus", 
+                   "Discrete Math"],
     extracurriculars:["Association for Computing Machinery", "Google Developer Student Club", 
-                      "Machine Learning Club", "Cardinal Robotics"]
+                      "Machine Learning Club", "Cardinal Robotics"],
+    current_job: "Student Research Assistant",
+    interests: ["Full Stack", "Data Analytics", "Machine Learning", "Quantum Computing"]
 }
 ```
 
