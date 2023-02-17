@@ -1,3 +1,5 @@
+<hr>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&center=true&width=1700&height=80&lines=Hello!+My+name+is+Siona+Beaudoin%2C+and+this+is+my+README!)](https://git.io/typing-svg)
 
 <hr>
