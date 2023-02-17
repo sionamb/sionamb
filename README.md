@@ -7,7 +7,7 @@
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
   <a href="https://forthebadge.com">
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="30"/>
-  <a href="./Siona_Beaudoin___Resume-3.pdf" download>
+  <a href="Siona_Beaudoin___Resume.pdf" download>
     <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=Read the Docs&logoColor=white" alt="Instagram Badge" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
