@@ -83,8 +83,8 @@ const Siona_Beaudoin = {
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/>&nbsp;
-  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator"  alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
-  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop"  alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
+  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator"  alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
+  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop"  alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex"  alt="Latex" width="40" height="40"/>&nbsp;
   
