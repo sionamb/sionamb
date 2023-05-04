@@ -9,7 +9,7 @@
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
   <a href="https://forthebadge.com">
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="30"/>
-  <a href="Siona_Beaudoin___Resume.pdf" download>
+  <a href="Siona_Beaudoin_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=Read the Docs&logoColor=white" alt="Instagram Badge" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/siona-beaudoin-1aa087238">
@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/jambetterthanjelly/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="30"/>
   </a>
-</div> <br> 
+</div> <br>
 
 <div>
 <img align="left" src="https://media2.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif?cid=ecf05e47elm06w3jfpojiwya68s0o6xw1gnvxuxohicaotds&rid=giphy.gif&ct=g" width="40%" height="300"/>
@@ -41,24 +41,38 @@
   
 <hr><br><br><br><hr><br><br><br><br><br><br><hr>
 
-    
 <div align = "center">
   <h2> ────  𝚊𝚋𝚘𝚞𝚝 𝚖𝚎  ──── </h2>
 </div>
 
 ```javascript
 const Siona_Beaudoin = {
-    pronouns: ["She", "Her"], 
+    pronouns: ["She", "Her"],
     school: "Saginaw Valley State University",
-    major: "Computer Science", 
+    major: "Computer Science",
     current_courses: ["Assembly", "Server Side Web Dev", "Advanced Java"],
-    past_courses: ["Java", "VB.NET", "CS Statistics", "Cient Side Web Dev", "Calculus", 
-                   "Discrete Math"],
-    extracurriculars:["Association for Computing Machinery", "Google Developer Student Club", 
-                      "Machine Learning Club", "Cardinal Robotics"],
+    past_courses: [
+        "Java",
+        "VB.NET",
+        "CS Statistics",
+        "Cient Side Web Dev",
+        "Calculus",
+        "Discrete Math",
+    ],
+    extracurriculars: [
+        "Association for Computing Machinery",
+        "Google Developer Student Club",
+        "Machine Learning Club",
+        "Cardinal Robotics",
+    ],
     current_job: "Student Research Assistant",
-    interests: ["Full Stack", "Data Analytics", "Machine Learning", "Quantum Computing"]
-}
+    interests: [
+        "Full Stack",
+        "Data Analytics",
+        "Machine Learning",
+        "Quantum Computing",
+    ],
+};
 ```
 
 <br><hr>
@@ -90,7 +104,6 @@ const Siona_Beaudoin = {
   
 </div><br><hr>
 
-
 <div id="stats" align="center">
    <h2> ────  𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜  ──── </h2>
   <a href = "https://github.com/anuraghazra/github-readme-stats">
@@ -98,5 +111,3 @@ const Siona_Beaudoin = {
   <a href = "https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=sionamb&theme=gotham&background=transparent&hide_border=true" width="50%"/>
 </div>
-
-
