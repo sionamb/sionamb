@@ -53,11 +53,17 @@ const Siona_Beaudoin = {
     current_courses: ["Assembly", "Server Side Web Dev", "Advanced Java"],
     past_courses: [
         "Java",
-        "VB.NET",
-        "CS Statistics",
+        "Advanced Java",
         "Cient Side Web Dev",
+        "Back-end Web Dev",
+        "Data Structures & Algorithms",
+        "VB.NET",
+        "Computer Networking",
+        "Assembly",
+        "CS Statistics",
         "Calculus",
         "Discrete Math",
+        "Matrix Algebra",
     ],
     extracurriculars: [
         "Association for Computing Machinery",
@@ -65,7 +71,10 @@ const Siona_Beaudoin = {
         "Machine Learning Club",
         "Cardinal Robotics",
     ],
-    current_job: "Student Research Assistant",
+    current_job: [
+        "Software Developer Intern"
+        "Student Research Assistant",
+    ],
     interests: [
         "Full Stack",
         "Data Analytics",
