@@ -97,13 +97,17 @@ const Siona_Beaudoin = {
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
+  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3JS"  alt="D3JS" width="40" height="40"/>&nbsp;
+  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="threeJS"  alt="threeJS" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VB.NET"  alt="VB.NET" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-plain.svg" title="Minitab"  alt="Minitab" width="40" height="40"/>&nbsp;
-  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Latex"  alt="Latex" width="40" height="40"/>&nbsp;
+  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps"  alt="Azure DevOps" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/>&nbsp;
   &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator"  alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
