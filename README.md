@@ -50,7 +50,7 @@ const Siona_Beaudoin = {
     pronouns: ["She", "Her"],
     school: "Saginaw Valley State University",
     major: "Computer Science",
-    current_courses: ["Assembly", "Server Side Web Dev", "Advanced Java"],
+    current_courses: ["Data Science", "Database ", "Operating Systems"],
     past_courses: [
         "Java",
         "Advanced Java",
@@ -79,7 +79,6 @@ const Siona_Beaudoin = {
         "Full Stack",
         "Data Analytics",
         "Machine Learning",
-        "Quantum Computing",
     ],
 };
 ```
